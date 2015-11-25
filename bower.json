@@ -1,0 +1,19 @@
+{
+  "name": "skeleton_angular_karma",
+  "description": "",
+  "main": "karma.conf.js",
+  "license": "ISC",
+  "homepage": "https://github.com/maozedong/skeleton_angular_karma",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
